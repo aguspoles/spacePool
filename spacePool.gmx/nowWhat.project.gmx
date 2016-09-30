@@ -14,8 +14,8 @@
   <paths name="paths"/>
   <objects name="objects">
     <object>objects\obj_corner</object>
-    <object>objects\obj_nave</object>
     <object>objects\obj_side</object>
+    <object>objects\obj_Nave</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\rm__level0</room>
